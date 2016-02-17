@@ -26,7 +26,7 @@ l_across = 70;                          // length of the intersecting pipe
 offset_across = l_lateral * 0.6;        // position of the intersecting pipe
 r_flange = 25;                          // radius of the flange between narrow and wide end
 l_flange = 50;                          // length of the flange
-cut = "lower";                          // cut in half away for gluing ("none", "upper", "lower")
+cut = "none";                           // cut in half away for gluing ("none", "upper", "lower")
 
 // Derived parameters
 
